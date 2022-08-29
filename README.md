@@ -6,7 +6,7 @@
 
 <a href="https://github.com/SatyamOzaR/Covid-19_Detector/blob/main/README.md" target="_blank">Link for Similar Setup Guide for AWS hosting</a>
 
-### Run ```InceptionResNetV2_glaucoma.ipynb``` on ```Google Colab``` for Model Training, Testing and Storing Instance.                                                   
+#### Run ```InceptionResNetV2_glaucoma.ipynb``` on ```Google Colab``` for Model Training, Testing and Storing Instance.                                                   
 
 ### Run ```app.py``` to host Web-app on ```AWS``` and follow the guide mentioned in above link of other ```readme.md``` file
 
