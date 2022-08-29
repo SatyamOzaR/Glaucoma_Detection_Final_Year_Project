@@ -6,10 +6,10 @@
 
 <a href="https://github.com/SatyamOzaR/Covid-19_Detector/blob/main/README.md" target="_blank">Link for Similar Setup Guide for AWS hosting</a>
 
-#### Run ```InceptionResNetV2_glaucoma.ipynb``` on ```Google Colab``` for Model Training, Testing and Storing Instance.                                                   
+##### Run ```InceptionResNetV2_glaucoma.ipynb``` on ```Google Colab``` for Model Training, Testing and Storing Instance.                                                   
 
-### Run ```app.py``` to host Web-app on ```AWS``` and follow the guide mentioned in above link of other ```readme.md``` file
+##### Run ```app.py``` to host Web-app on ```AWS``` and follow the guide mentioned in above link of other ```readme.md``` file
 
-### Run ```flask_ngrok_web_app.ipynb``` to host using ```ngrok-server``` on ```Google Colab``` (Register and Generate AuthToken from ngrok website before running file)
+##### Run ```flask_ngrok_web_app.ipynb``` to host using ```ngrok-server``` on ```Google Colab``` (Register and Generate AuthToken from ngrok website before running file)
 
-### Use ```raspberry_pi_noir_camera_stream.py``` only if you have Raspberry Pi with camera then Run file and goto url:  ```http://<ip_address_of_rpi>:8000/```
+##### Use ```raspberry_pi_noir_camera_stream.py``` only if you have Raspberry Pi with camera then Run file and goto url:  ```http://<ip_address_of_rpi>:8000/```
